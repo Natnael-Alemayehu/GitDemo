@@ -2,14 +2,5 @@ Test added
 
 Second text added
 
-FOurth
-
-This is a long change ....
-
-This is the second long change
-
-To see the difference
-
-Another line of some jiberish
-
-Okayy it all worked just fine
+This is getting updated by someone somewhere in the world...
+I have to get the difference in my computer repository when I Pull it
